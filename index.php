@@ -18,16 +18,16 @@
 
   <section class="row">
     <div class="col-md-6 offset-md-3 align-self-center"> 
-      <h1 class="text-center">Daftar Siswa</h1>
-      <a href="tambah.php" class="btn btn-primary mb-2">Tambah</a>
+      <h1 class="text-center">List of Student</h1>
+      <a href="tambah.php" class="btn btn-primary mb-2">Create</a>
       <table class="table table-striped table-bordered">
         <thead>
           <tr>
             <th scope="col">No</th>
             <th scope="col">Nis</th>
-            <th scope="col">Nama</th>
-            <th scope="col">Kelas</th>
-            <th scope="col">Aksi</th>
+            <th scope="col">Name</th>
+            <th scope="col">Class</th>
+            <th scope="col">Action</th>
           </tr>
         </thead>
           <?php
